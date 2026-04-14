@@ -20,7 +20,7 @@ export function Header() {
           <Monitor className="w-5 h-5 text-white" />
         </div>
         <h1 className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-foreground to-foreground/70">
-          ToolHub
+          Dev Tools
         </h1>
       </div>
 
